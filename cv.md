@@ -1,4 +1,5 @@
 # **CV - Kalybek Askhatov**
+![IMG_20170623_180952.th.jpg](https://ltdfoto.ru/images/2022/03/05/IMG_20170623_180952.th.jpg)] 
 
 > ## **Contact info**
 
