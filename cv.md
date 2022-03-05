@@ -1,18 +1,18 @@
-# CV - Kalybek Askhatov
+# **CV - Kalybek Askhatov**
 
-> ## Contact info
+> ## **Contact info**
 
-* ### Email: lerakssss@gmail.com
-* ### Address: 29 apt, 2, Azhibek Baatyra str., Bishkek
-* ### Phone: +996555106023
-* ### Date of birth: 04-25-1994
+* ### **Email:** lerakssss@gmail.com
+* ### **Address:** 29 apt, 2, Azhibek Baatyra str., Bishkek
+* ### **Phone:** +996555106023
+* ### **Date of birth:** 04-25-1994
 ***
 
 
-> ## About Me
+> ## **About Me**
 
-### Proactive person with a University degree in Finances, but very interested in IT. I have excellent written, verbal, analytical and interpersonal skills. Hoping to develop my knowledges in IT and gain new experience in it.
-* #### My strange
+ ### Proactive person with a University degree in Finances, but very interested in IT. I have excellent written, verbal, analytical and interpersonal skills. Hoping to develop my knowledges in IT and gain new experience in it.
+* #### **My strange**
     * Teamwork
     * Problem solving
     * Office administration
@@ -21,6 +21,28 @@
     * A developed logical thinking
 ***
 
-> ## Skills
+> ## **Skills**
 
+* HTML
+* CSS
+* Git/GitHub
+* JavaScript (Fundamentals)
+***
+>## **Code Examples**
+
+``` 
+function nicknameGenerator(name) {
+  if(name.length < 4) return "Error: Name too short"
+  if(name[2].match(/[aeiou]/gi)) return name.slice(0, 4)
+  return name.slice(0, 3)  
+}
+```
+***
+> ## **Education**
+### Diploma in “Finances and credit”
+### Kyrgyz State National University
+***
+## **Language:**
+* **English** - A2
+* **Russian** - native speaker.
 
